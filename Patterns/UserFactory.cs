@@ -13,11 +13,19 @@ public class Employee : UserRole
     public override string Role => "Employee";
 }
 
-public class UserFactory
+public static class UserFactory
 {
     public static UserRole CreateUser(string role)
     {
-        if (role == "Admin") return new Admin();
-        return new Employee();
+        switch (role.Trim().ToLower())
+        {
+            case "admin":
+                return new Admin();
+            case "employee":
+                return new Employee();
+            default:
+                return new Employee(); // default fallback
+        }
     }
 }
+

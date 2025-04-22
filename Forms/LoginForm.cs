@@ -40,7 +40,6 @@ namespace BookStoreMG
                 {
                     string role = reader["Role"].ToString();
                     UserRole loggedInUser = UserFactory.CreateUser(role);
-
                     MainForm mainForm = new MainForm(txtUsename.Text, loggedInUser.Role);
                     this.Hide();
                     mainForm.Show();

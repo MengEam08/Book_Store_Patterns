@@ -26,9 +26,9 @@ namespace BookStoreMG
         {
             try
             {
-                // Get total sales and quantity first
+                // Get total sales and quantity from SaleItems
                 string salesQuery = "SELECT ISNULL(SUM(Total), 0), ISNULL(SUM(Quantity), 0) FROM SaleItems";
-                string customersQuery = "SELECT COUNT(DISTINCT CustomerName) FROM Sales";  // or CustomerID if you have
+                string customersQuery = "SELECT COUNT(*) FROM Customers";
 
                 using (SqlCommand salesCmd = new SqlCommand(salesQuery, DatabaseConnection.Instance.Connection))
                 {
@@ -45,7 +45,7 @@ namespace BookStoreMG
                     }
                 }
 
-                // Now get total customers separately
+                // Now get total customers from Customers table
                 using (SqlCommand customersCmd = new SqlCommand(customersQuery, DatabaseConnection.Instance.Connection))
                 {
                     int totalCustomers = (int)customersCmd.ExecuteScalar();
@@ -61,6 +61,7 @@ namespace BookStoreMG
                 DatabaseConnection.Instance.Close();
             }
         }
+
 
 
         private void lblCustomers_Click(object sender, EventArgs e)

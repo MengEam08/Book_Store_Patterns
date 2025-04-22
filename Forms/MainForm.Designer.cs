@@ -132,6 +132,7 @@
             this.btnLogout.TabIndex = 8;
             this.btnLogout.Tag = "";
             this.btnLogout.Text = "Logout";
+            this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
             // 
             // btnCash
             // 
@@ -254,6 +255,7 @@
             this.lblRole.TabIndex = 5;
             this.lblRole.Text = "role";
             this.lblRole.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblRole.Click += new System.EventHandler(this.lblRole_Click);
             // 
             // lblUsername
             // 

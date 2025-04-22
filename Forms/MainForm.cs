@@ -18,12 +18,11 @@ namespace BookStoreMG.Forms
         public MainForm(string userName, string role)
         {
             InitializeComponent();
-            _userName = userName;  // store userName
-            _userRole = role;      // store userRole
+            _userName = userName;  // Store userName
+            _userRole = role;      // Store userRole
 
-            lblUsername.Text = _userName;    // show Username
-            lblRole.Text = _userRole;        // show Role
-            LoadDashboard();
+            lblUsername.Text = _userName;    // Display Username
+            lblRole.Text = _userRole;
         }
 
 
@@ -77,6 +76,18 @@ namespace BookStoreMG.Forms
         private void lblUsername_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void lblRole_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            this.Hide(); // hide current MainForm
+            LoginForm loginForm = new LoginForm();
+            loginForm.Show();
         }
     }
 }
