@@ -79,6 +79,7 @@ namespace BookStoreMG.Forms
             lblTotal.Text = $"Total: ${total:F2}";
         }
 
+
         private void btnAdd_Click(object sender, EventArgs e)
         {
             CashProductForm cpf = new CashProductForm();
@@ -206,8 +207,15 @@ namespace BookStoreMG.Forms
 
                 transaction.Commit();
 
-                MessageBox.Show($"Checkout complete!\nCustomer: {selectedCustomer.Name}\nTotal items: {selectedProducts.Count}");
+                // Calculate total price before clearing products
+                decimal totalPrice = selectedProducts.Sum(p => p.Price * p.Quantity);
 
+                MessageBox.Show($"Checkout complete!\n" +
+                                $"Customer: {selectedCustomer.Name}\n" +
+                                $"Total items: {selectedProducts.Count}\n" +
+                                $"Total price: ${totalPrice:F2}");
+
+                // Reset cart and UI
                 selectedProducts.Clear();
                 selectedCustomer = null;
                 dgvCart.Rows.Clear();
@@ -298,5 +306,14 @@ namespace BookStoreMG.Forms
             }
         }
 
+        private void lblCashier_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTotal_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

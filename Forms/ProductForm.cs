@@ -79,8 +79,12 @@ namespace BookStoreMG.Forms
 
         private void txtSearch_TextChanged(object sender, EventArgs e)
         {
+
             string keyword = txtSearch.Text;
-            var filtered = searchStrategy.Search(productList, keyword);
+            var filtered = productList
+                .Where(p => p.Name.ToLower().Contains(keyword.ToLower()))
+                .ToList();
+
             DisplayProducts(filtered);
         }
 

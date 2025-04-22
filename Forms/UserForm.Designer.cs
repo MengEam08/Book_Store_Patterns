@@ -72,11 +72,11 @@
             this.Column7,
             this.Column8});
             this.dgvUsers.EnableHeadersVisualStyles = false;
-            this.dgvUsers.Location = new System.Drawing.Point(0, 123);
+            this.dgvUsers.Location = new System.Drawing.Point(0, 119);
             this.dgvUsers.Name = "dgvUsers";
             this.dgvUsers.RowHeadersVisible = false;
             this.dgvUsers.RowHeadersWidth = 51;
-            this.dgvUsers.Size = new System.Drawing.Size(802, 236);
+            this.dgvUsers.Size = new System.Drawing.Size(834, 247);
             this.dgvUsers.TabIndex = 8;
             this.dgvUsers.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUsers_CellContentClick);
             // 
@@ -211,7 +211,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(801, 359);
+            this.ClientSize = new System.Drawing.Size(822, 359);
             this.Controls.Add(this.lblCustomerName);
             this.Controls.Add(this.dgvUsers);
             this.Controls.Add(this.panel2);

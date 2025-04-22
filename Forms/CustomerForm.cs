@@ -66,14 +66,6 @@ namespace BookStoreMG.Forms
                 dgvCustomers.Rows.Add(no++, c.Id, c.Name, c.Address, c.Phone);
             }
         }
-
-        private void btnAdd_Click(object sender, EventArgs e)
-        {
-            CustomerModuleForm module = new CustomerModuleForm();
-            module.FormClosed += (s, args) => LoadCustomers();
-            module.ShowDialog();
-        }
-
         private void txtSearch_TextChanged(object sender, EventArgs e)
         {
             string keyword = txtSearch.Text;
@@ -110,6 +102,20 @@ namespace BookStoreMG.Forms
                     LoadCustomers();
                 }
             }
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            CustomerModuleForm module = new CustomerModuleForm();
+            module.FormClosed += (s, args) => LoadCustomers();
+            module.ShowDialog();
+        }
+
+        private void txtSearch_TextChanged_1(object sender, EventArgs e)
+        {
+            string keyword = txtSearch.Text;
+            var filtered = customerList.Where(c => c.Name.ToLower().Contains(keyword.ToLower())).ToList();
+            DisplayCustomers(filtered);
         }
     }
 }

@@ -34,14 +34,11 @@
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnUpdate = new System.Windows.Forms.Button();
             this.btnSave = new System.Windows.Forms.Button();
-            this.dtDob = new System.Windows.Forms.DateTimePicker();
             this.txtPassword = new System.Windows.Forms.TextBox();
             this.lbluid = new System.Windows.Forms.Label();
             this.lblPass = new System.Windows.Forms.Label();
             this.guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
-            this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.txtAddress = new System.Windows.Forms.TextBox();
             this.txtPhone = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.txtName = new System.Windows.Forms.TextBox();
@@ -80,7 +77,7 @@
             this.btnDelete.FlatAppearance.BorderSize = 0;
             this.btnDelete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDelete.ForeColor = System.Drawing.Color.White;
-            this.btnDelete.Location = new System.Drawing.Point(537, 399);
+            this.btnDelete.Location = new System.Drawing.Point(540, 358);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(139, 41);
             this.btnDelete.TabIndex = 45;
@@ -96,7 +93,7 @@
             this.btnUpdate.FlatAppearance.BorderSize = 0;
             this.btnUpdate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnUpdate.ForeColor = System.Drawing.Color.White;
-            this.btnUpdate.Location = new System.Drawing.Point(376, 399);
+            this.btnUpdate.Location = new System.Drawing.Point(375, 358);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(139, 41);
             this.btnUpdate.TabIndex = 44;
@@ -111,7 +108,7 @@
             this.btnSave.FlatAppearance.BorderSize = 0;
             this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSave.ForeColor = System.Drawing.Color.White;
-            this.btnSave.Location = new System.Drawing.Point(215, 399);
+            this.btnSave.Location = new System.Drawing.Point(217, 358);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(139, 41);
             this.btnSave.TabIndex = 42;
@@ -119,16 +116,9 @@
             this.btnSave.UseVisualStyleBackColor = false;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
-            // dtDob
-            // 
-            this.dtDob.Location = new System.Drawing.Point(217, 315);
-            this.dtDob.Name = "dtDob";
-            this.dtDob.Size = new System.Drawing.Size(462, 28);
-            this.dtDob.TabIndex = 39;
-            // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(217, 365);
+            this.txtPassword.Location = new System.Drawing.Point(217, 267);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '*';
             this.txtPassword.Size = new System.Drawing.Size(462, 28);
@@ -138,7 +128,7 @@
             // 
             this.lbluid.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lbluid.AutoSize = true;
-            this.lbluid.Location = new System.Drawing.Point(17, 409);
+            this.lbluid.Location = new System.Drawing.Point(17, 322);
             this.lbluid.Name = "lbluid";
             this.lbluid.Size = new System.Drawing.Size(35, 21);
             this.lbluid.TabIndex = 50;
@@ -148,7 +138,7 @@
             // lblPass
             // 
             this.lblPass.AutoSize = true;
-            this.lblPass.Location = new System.Drawing.Point(16, 366);
+            this.lblPass.Location = new System.Drawing.Point(16, 268);
             this.lblPass.Name = "lblPass";
             this.lblPass.Size = new System.Drawing.Size(95, 21);
             this.lblPass.TabIndex = 49;
@@ -158,34 +148,18 @@
             // 
             this.guna2Elipse1.BorderRadius = 15;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(16, 316);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(115, 21);
-            this.label6.TabIndex = 48;
-            this.label6.Text = "Date of Birth";
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(16, 266);
+            this.label5.Location = new System.Drawing.Point(16, 217);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(55, 21);
             this.label5.TabIndex = 46;
             this.label5.Text = "Role :";
             // 
-            // txtAddress
-            // 
-            this.txtAddress.Location = new System.Drawing.Point(217, 163);
-            this.txtAddress.Name = "txtAddress";
-            this.txtAddress.Size = new System.Drawing.Size(462, 28);
-            this.txtAddress.TabIndex = 36;
-            // 
             // txtPhone
             // 
-            this.txtPhone.Location = new System.Drawing.Point(217, 213);
+            this.txtPhone.Location = new System.Drawing.Point(217, 164);
             this.txtPhone.Name = "txtPhone";
             this.txtPhone.Size = new System.Drawing.Size(462, 28);
             this.txtPhone.TabIndex = 37;
@@ -193,7 +167,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(16, 216);
+            this.label3.Location = new System.Drawing.Point(16, 167);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(69, 21);
             this.label3.TabIndex = 40;
@@ -231,9 +205,8 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(16, 166);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(85, 21);
+            this.label4.Size = new System.Drawing.Size(0, 21);
             this.label4.TabIndex = 43;
-            this.label4.Text = "Address :";
             // 
             // panel1
             // 
@@ -246,7 +219,7 @@
             // 
             // txtRole
             // 
-            this.txtRole.Location = new System.Drawing.Point(217, 266);
+            this.txtRole.Location = new System.Drawing.Point(217, 217);
             this.txtRole.Name = "txtRole";
             this.txtRole.Size = new System.Drawing.Size(462, 28);
             this.txtRole.TabIndex = 37;
@@ -255,18 +228,15 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(708, 453);
+            this.ClientSize = new System.Drawing.Size(708, 464);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnSave);
-            this.Controls.Add(this.dtDob);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.lbluid);
             this.Controls.Add(this.lblPass);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.txtAddress);
             this.Controls.Add(this.txtRole);
             this.Controls.Add(this.txtPhone);
             this.Controls.Add(this.label3);
@@ -291,14 +261,11 @@
         private System.Windows.Forms.Button btnDelete;
         public System.Windows.Forms.Button btnUpdate;
         public System.Windows.Forms.Button btnSave;
-        public System.Windows.Forms.DateTimePicker dtDob;
         public System.Windows.Forms.TextBox txtPassword;
         public System.Windows.Forms.Label lbluid;
         private System.Windows.Forms.Label lblPass;
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse1;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
-        public System.Windows.Forms.TextBox txtAddress;
         public System.Windows.Forms.TextBox txtPhone;
         private System.Windows.Forms.Label label3;
         public System.Windows.Forms.TextBox txtName;
