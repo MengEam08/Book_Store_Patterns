@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|e:\\ooad\\s2 project\\ministore\\bookstoremg\\forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\patterns\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:patterns\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\sellingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\cashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\cashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\forms\\cashproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5146F0D-28F2-490C-9A9B-1A0F21FBE2E6}|BookStoreMG.csproj|solutionrelative:forms\\cashproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\ProductForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ProductForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\ProductForm.cs",
+              "RelativeToolTip": "Forms\\ProductForm.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:09:40.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModuleForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\UserModuleForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserModuleForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\UserModuleForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UserModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:41:44.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerModuleForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CustomerModuleForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerModuleForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CustomerModuleForm.cs [Design]",
+              "RelativeToolTip": "Forms\\CustomerModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:37:00.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Patterns\\Repository.cs",
+              "RelativeDocumentMoniker": "Patterns\\Repository.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Patterns\\Repository.cs",
+              "RelativeToolTip": "Patterns\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:32:36.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SellingForm.cs",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\SellingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SellingForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\SellingForm.cs",
+              "RelativeToolTip": "Forms\\SellingForm.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:23:59.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CashForm.cs",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CashForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CashForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CashForm.cs",
+              "RelativeToolTip": "Forms\\CashForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:18:27.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CashForm.Designer.cs",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CashForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\CashForm.Designer.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CashForm.Designer.cs",
+              "RelativeToolTip": "Forms\\CashForm.Designer.cs",
+              "ViewState": "AQIAABMBAAAAAAAAAAAEwCgBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:13:51.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CashForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CashForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CashForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CashForm.cs [Design]",
+              "RelativeToolTip": "Forms\\CashForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:13:03.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CashProductForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CashProductForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CashProductForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CashProductForm.cs [Design]",
+              "RelativeToolTip": "Forms\\CashProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:13:01.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:12:54.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductModuleForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\ProductModuleForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ProductModuleForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\ProductModuleForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ProductModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:12:47.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SellingForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\SellingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SellingForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\SellingForm.cs [Design]",
+              "RelativeToolTip": "Forms\\SellingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:04:30.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:03:50.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\ProductForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ProductForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\ProductForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:03:48.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\UserForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\UserForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:03:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Forms\\CustomerForm.cs",
+              "ToolTip": "E:\\OOAD\\S2 Project\\MiniStore\\BookStoreMG\\Forms\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "Forms\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:03:39.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
